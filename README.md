@@ -8,3 +8,5 @@
    2. ssettimgs.py > INSTALLED_APPS 'playground', 추가     
 3. playground/views
    1. say_Hello()
+4. urls
+   1. playground/hello/ => say_Hello()
